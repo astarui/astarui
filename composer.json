@@ -1,0 +1,14 @@
+{
+    "name": "astarui/astarui",
+    "description": "astarui demo",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "astarui",
+            "email": "astarui@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
